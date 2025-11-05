@@ -1,1 +1,1 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/JuuGoNichi.png" alt="Your Image Badge" />
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/JuuGoNichi.png)](https://tryhackme.com/p/JuuGoNichi)
